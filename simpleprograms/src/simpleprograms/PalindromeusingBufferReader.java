@@ -2,7 +2,7 @@ package simpleprograms;
 import java.io.*;
 
 public class PalindromeusingBufferReader {
-	
+
 	 public static void main(String [] args) throws IOException{
 	  try{
 	   BufferedReader obc=new BufferedReader (new InputStreamReader(System.in));
